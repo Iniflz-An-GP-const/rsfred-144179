@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name" translatable="false">RsFred</string>
-    <string name="nofhp_main_menu_tagline">Test Your Knowledge</string>
-    <string name="nofhp_app_logo_description">App logo</string>
+    <string name="nofhp_main_menu_tagline">Test Your Sports Knowledge</string>
+    <string name="nofhp_app_logo_description">RsFred sports quiz logo</string>
 
     <string name="main_menu_play_solo">Solo</string>
     <string name="main_menu_play_multiplayer">Duo</string>
@@ -11,7 +11,7 @@
 
     <string name="back_icon_description">Back</string>
     <string name="shuffle_icon_description">Shuffle topics</string>
-    <string name="topics_selection_title">Select Topics</string>
+    <string name="topics_selection_title">Pick Sports</string>
     <string name="high_scores_title">High Scores</string>
 
     <string name="about_title">About</string>
@@ -31,9 +31,9 @@
     <string name="high_score_card_correct_label">Correct</string>
     <string name="high_score_card_total_label">Questions</string>
     <string name="high_score_card_date_label">Date</string>
-    <string name="high_scores_empty">No high scores yet</string>
-    <string name="topics_selection_empty">No topics available</string>
-    <string name="topics_selection_start">Start Game</string>
+    <string name="high_scores_empty">No solo scores yet</string>
+    <string name="topics_selection_empty">No sports available</string>
+    <string name="topics_selection_start">Start Quiz</string>
 
     <string name="dialog_exit_title">Exit Game?</string>
     <string name="dialog_exit_message">Your progress will be lost if you exit now.</string>
