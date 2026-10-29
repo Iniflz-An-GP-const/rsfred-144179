@@ -1,0 +1,33 @@
+AssetBasedConstructor
+donor: QuizAppDonor (app.quiz.donor)
+project: RsFred (nelson.rsfred.hubapp)
+prefix: NOFHP
+seed: 1226899354279598703
+app/src/main/java/app/quiz/donor/ui/composable/approot/background -> v_fade
+app/src/main/java/app/quiz/donor/ui/composable/approot/background/points -> v_perimeter
+app/src/main/java/app/quiz/donor/ui/composable/approot/topbar -> v_primary
+app/src/main/java/app/quiz/donor/ui/composable/screen/about/card -> v_icon_leading
+app/src/main/java/app/quiz/donor/ui/composable/screen/about/rules/header -> v_icon
+app/src/main/java/app/quiz/donor/ui/composable/screen/about/rules/list -> v_bullet
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/answer/button -> v_fill
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/answer/layout -> v_grid
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/question -> v_eyebrow
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/streak -> v_text
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/timer -> v_dashes
+app/src/main/java/app/quiz/donor/ui/composable/screen/game/transition -> v_fade
+app/src/main/java/app/quiz/donor/ui/composable/screen/game_over/player -> v_card
+app/src/main/java/app/quiz/donor/ui/composable/screen/game_over/result -> v_medal
+app/src/main/java/app/quiz/donor/ui/composable/screen/high_scores/card -> v_medal
+app/src/main/java/app/quiz/donor/ui/composable/screen/high_scores/filter -> v_segmented
+app/src/main/java/app/quiz/donor/ui/composable/screen/high_scores/filter/chip -> v_icon
+app/src/main/java/app/quiz/donor/ui/composable/screen/main_menu/content/buttons/play_mode -> v_stacked
+app/src/main/java/app/quiz/donor/ui/composable/screen/main_menu/content/buttons/secondary -> v_stacked
+app/src/main/java/app/quiz/donor/ui/composable/screen/main_menu/content/header -> v_badge
+app/src/main/java/app/quiz/donor/ui/composable/screen/shared/button -> v_icon
+app/src/main/java/app/quiz/donor/ui/composable/screen/shared/modifier/press -> v_scale
+app/src/main/java/app/quiz/donor/ui/composable/screen/splash -> v_drop
+app/src/main/java/app/quiz/donor/ui/composable/screen/topic_selection/card -> v_badge
+app/src/main/java/app/quiz/donor/ui/composable/screen/topic_selection/list -> v_grid
+app/src/main/java/app/quiz/donor/ui/theme -> v_cp4686_dark
+app/src/main/java/app/quiz/donor/ui/theme/dimens -> v_podium
+app/src/main/java/app/quiz/donor/ui/theme/typography -> v_font_arcade
